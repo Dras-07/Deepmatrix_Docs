@@ -44,6 +44,9 @@ sudo apt-get install jenkins
 </ul>
 
 
+# quarkus stop pulling 
+quarkus.devservices.enabled=false
+
 
 
 
