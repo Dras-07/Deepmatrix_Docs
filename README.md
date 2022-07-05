@@ -53,3 +53,12 @@ username: DMadmin
 pass: DMadmin123@
 
 
+Give Docker Sudo permissions
+```
+groupadd docker
+sudo usermod -aG docker $USER
+sudo chmod 666 /var/run/docker.sock
+
+```
+
+
