@@ -49,4 +49,7 @@ quarkus.devservices.enabled=false
 
 
 
+username: DMadmin
+pass: DMadmin123@
+
 
