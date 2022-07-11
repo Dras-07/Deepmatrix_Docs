@@ -62,3 +62,5 @@ sudo chmod 666 /var/run/docker.sock
 ```
 
 
+https://www.javafixing.com/2022/06/fixed-testcontainers-postgres-quarkus.html
+
