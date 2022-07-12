@@ -66,3 +66,11 @@ https://www.javafixing.com/2022/06/fixed-testcontainers-postgres-quarkus.html
 
 
 https://solocoding.dev/blog/eng_docker_testcontainer
+
+
+
+##CONTAINER TEST
+1) change exposed port to 5432
+2) use docker login docker.index.io to login
+3) use netcfg -d then restart
+4) change ryuk/testcontainer properties
