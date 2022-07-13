@@ -77,3 +77,11 @@ https://solocoding.dev/blog/eng_docker_testcontainer
 
 
 http://www.mastertheboss.com/soa-cloud/quarkus/simple-external-resources-testing-with-quarkus/
+
+
+////AVOID using Policy
+# Enable Policy Enforcement
+quarkus.keycloak.policy-enforcer.enable=true
+quarkus.keycloak.policy-enforcer.lazy-load-paths=false
+
+
