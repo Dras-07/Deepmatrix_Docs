@@ -74,3 +74,6 @@ https://solocoding.dev/blog/eng_docker_testcontainer
 2) use docker login docker.index.io to login
 3) use netcfg -d then restart
 4) change ryuk/testcontainer properties
+
+
+http://www.mastertheboss.com/soa-cloud/quarkus/simple-external-resources-testing-with-quarkus/
