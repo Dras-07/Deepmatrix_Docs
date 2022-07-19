@@ -87,3 +87,8 @@ quarkus.keycloak.policy-enforcer.lazy-load-paths=false
 Quarkus_Liquibase
 https://capgemini.github.io/development/Quarkus-meets-Liquibase/
 https://quarkus.io/guides/liquibase
+
+
+
+# Kube jenkins
+https://www.jenkins.io/doc/book/installing/kubernetes/#create-a-namespace
