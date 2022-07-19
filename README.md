@@ -84,4 +84,6 @@ http://www.mastertheboss.com/soa-cloud/quarkus/simple-external-resources-testing
 quarkus.keycloak.policy-enforcer.enable=true
 quarkus.keycloak.policy-enforcer.lazy-load-paths=false
 
-
+Quarkus_Liquibase
+https://capgemini.github.io/development/Quarkus-meets-Liquibase/
+https://quarkus.io/guides/liquibase
