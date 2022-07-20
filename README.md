@@ -89,6 +89,13 @@ https://capgemini.github.io/development/Quarkus-meets-Liquibase/
 https://quarkus.io/guides/liquibase
 
 
+Jenkins Machine Access
+```
+ssh -i C:\deepmatrix\admin-1.pem dmadmin@52.140.116.184
+ssh -i ~/.ssh/jenkins-1.pem dmadmin@10.0.99.200
+sudo su jenkins
+```
+
 
 # Kube jenkins
 https://www.jenkins.io/doc/book/installing/kubernetes/#create-a-namespace
